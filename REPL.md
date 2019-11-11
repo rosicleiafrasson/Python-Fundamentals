@@ -25,6 +25,33 @@ O resultado da execução desse bloco de código é:
 40
 ```
 
+```
+import math
+math.sqrt(81)
+help(math)
+help(math.fatorial)
+math.factorial(5)
+
+from math import factorial
+n = 3
+factorial(n)
+
+from math import factorial as fac
+fac(n)
+```
+
+/ - divisor que retorna float
+// - divisor que retorna integer
+
+### Tipos Primitivos ###
+
+int - inteiro
+float - decimal
+none - null
+bool - booleano
+
+
+
 
 
 
